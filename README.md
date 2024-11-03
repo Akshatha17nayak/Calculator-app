@@ -1,2 +1,2 @@
 # Calculator-app
-A calculator is a problem-solving partner, making math easy and accessible for all.
+Calculate with ease and precision using our intuitive calculator app!
